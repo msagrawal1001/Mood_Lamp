@@ -13,3 +13,16 @@ Yes , I m new to KIcad thats why it took 1 hour , i know i will eventually do th
 Time Spent 1.5 hrs 
 -- I finished the schematic that i left incomplete yesterday , checked ERC it had 13 mistakes , solved all of them one by one , then assigned all of them footprints and opened PCB editor , its bit complex and hard for me to understand it , i m taking yt tutorials from Digikey that how to use PCB editor , what are the functions , and how to design a pcb , right now i messed up with tracks and traces but i will figure it out heres how Schematic and PCB looks like right now <img width="1492" height="802" alt="image" src="https://github.com/user-attachments/assets/baddda3d-f584-43e0-9f65-beae5acd3b46" />
 <img width="1038" height="653" alt="image" src="https://github.com/user-attachments/assets/1fa4f1c6-04fe-4635-bc5b-b0c0db44fb34" />
+
+
+
+
+
+
+17 Nov 2026
+Time Spent - 1.5 hrs
+-- I didnt know how to rout - so i saw a tutorial on youtube cuz i messed up last time - so i rerouted the pcb , then  i checked DRC 30 errors boom , solved those 30 another 10 came solved those and now the pcb is completely working with 0 errors <img width="1302" height="606" alt="image" src="https://github.com/user-attachments/assets/e72fd041-545f-4ac9-93a9-7aa0358d86f6" />
+<img width="895" height="552" alt="image" src="https://github.com/user-attachments/assets/5b7378fc-3430-4a08-857d-a8f4c515a97a" />
+<img width="866" height="615" alt="image" src="https://github.com/user-attachments/assets/80804740-57e4-47bd-b21f-64d31107caf4" />
+<img width="1311" height="607" alt="image" src="https://github.com/user-attachments/assets/17e7af14-eea1-49ef-b9f9-9a4abde0a1c8" />
+
